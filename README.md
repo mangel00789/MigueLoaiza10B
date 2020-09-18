@@ -129,8 +129,7 @@
 <p><strong>I.E. La Milagrosa</strong></p>
 <p><strong>Proyecto Final de Tecnología</strong></p>
 
-<iframe src="https://drive.google.com/file/d/1EqcakM-rpnPSdld8VS137qiggBMAIY9M/preview" width="640" height="480"></iframe
- alt="Fotografía del Estudiante"> 
+
  
 </div>
 
