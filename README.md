@@ -1,4 +1,4 @@
-
+<!DOCTYPE html>
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
@@ -184,4 +184,8 @@
 
 <p><a href="#Titulo1">Volver al inicio</a></p>
 
+</body> 
 <p id="modificacion">Ultima fecha de modificación: <strong>27/08/2020</strong></p>
+
+	
+</html>
